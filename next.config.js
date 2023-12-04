@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ["assets.playgroundai.com"],
+    domains: ["assets.playgroundai.com", "storage.googleapis.com"],
   },
 };
 
